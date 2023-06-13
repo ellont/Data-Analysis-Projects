@@ -23,7 +23,7 @@ Refer to _data_analysis.ipynb_
     * Mutual Information
     ![mutual_info.jpg](/images/mutual_info.JPG)
     * Entropy
-    ![entropy.jpg](/images/entropy.JPG)
+    ![entropy.jpg]([/images/entropy.JPG](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/entropy.JPG))
 2. Linear Regression Model (kfold)
 3. Decision Tree Model
 4. KNN Classification model - PCA
