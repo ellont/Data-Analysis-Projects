@@ -21,7 +21,7 @@ Refer to _data_analysis.ipynb_
     * Pearson
     ![pearson.jpg](/images/pearson.JPG)
     * Mutual Information
-    ![mutual_info.jpg](/images/mutual_info.JPG)
+    ![mutual_info.jpg](/images/mutual_info.JPG "mutual_info")
     * Entropy
     ![entropy.jpg]([/images/entropy.JPG](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/entropy.JPG))
 2. Linear Regression Model (kfold)
