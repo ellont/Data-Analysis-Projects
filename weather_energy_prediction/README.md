@@ -7,9 +7,9 @@ Refer to _data_cleaning.ipynb_
     * Replacing missing data with NaN when suitable
     * Imputation (Linear interpolation & Mode)
 
-    ![linear_Interpolation_1.jpg](/https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/linear_Interpolation_1.JPG?raw=true)
+    ![linear_Interpolation_1.jpg](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/linear_Interpolation_1.JPG?raw=true)
 
-    ![linear_Interpolation_2.jpg](/https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/linear_Interpolation_2.JPG?raw=true)
+    ![linear_Interpolation_2.jpg](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/linear_Interpolation_2.JPG?raw=true)
     * Ignore/Accept
 2. Transform
     * Covernt columns to appropriate data types
@@ -20,16 +20,16 @@ Refer to _data_analysis.ipynb_
 1. Determine correlation
     * Seasonality
 
-    ![season.jpg](/https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/season.JPG?raw=true)
+    ![season.jpg](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/season.JPG?raw=true)
     * Pearson
 
-    ![pearson.jpg](/https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/pearson.JPG?raw=true)
+    ![pearson.jpg](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/pearson.JPG?raw=true)
     * Mutual Information
 
-    ![mutual_info.jpg](/https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/mutual_info.JPG?raw=true)
+    ![mutual_info.jpg](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/mutual_info.JPG?raw=true)
     * Entropy
 
-    ![entropy.jpg](/https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/entropy.JPG?raw=true)
+    ![entropy.jpg](https://github.com/ellont/Data-Analysis-Projects/blob/main/weather_energy_prediction/images/entropy.JPG?raw=true)
 2. Linear Regression Model (kfold)
 3. Decision Tree Model
 4. KNN Classification model - PCA
