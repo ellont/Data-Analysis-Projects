@@ -6,8 +6,8 @@ Refer to _data_cleaning.ipynb_
 1. Missing values
     * Replacing missing data with NaN when suitable
     * Imputation (Linear interpolation & Mode)
-    ![linear_Interpolation_1.jpg](/image/linear_Interpolation_1.jpg)
-    ![linear_Interpolation_2.jpg](/image/linear_Interpolation_2.jpg)
+    ![linear_Interpolation_1.jpg](/images/linear_Interpolation_1.jpg)
+    ![linear_Interpolation_2.jpg](/images/linear_Interpolation_2.jpg)
     * Ignore/Accept
 2. Transform
     * Covernt columns to appropriate data types
@@ -17,13 +17,13 @@ Refer to _data_analysis.ipynb_
 
 1. Determine correlation
     * Seasonality
-    ![season.jpg](/image/season.jpg)
+    ![season.jpg](/images/season.jpg)
     * Pearson
-    ![pearson.jpg](/image/pearson.jpg)
+    ![pearson.jpg](/images/pearson.jpg)
     * Mutual Information
-    ![mutual_info.jpg](/image/mutual_info.jpg)
+    ![mutual_info.jpg](/images/mutual_info.jpg)
     * Entropy
-    ![entropy.jpg](/image/entropy.jpg)
+    ![entropy.jpg](/images/entropy.jpg)
 2. Linear Regression Model (kfold)
 3. Decision Tree Model
 4. KNN Classification model - PCA
